@@ -1,6 +1,6 @@
 # STF 
 
-This is a PyTorch and TensorLy implementation of **Accurate Online Tensor Factorization for Temporal Tensor Streams with Missing Values**(CIKM 2021).<br>
+This is a PyTorch and TensorLy implementation of **Accurate Online Tensor Factorization for Temporal Tensor Streams with Missing Values** (CIKM 2021).<br>
 
 
 ## Prerequisites
