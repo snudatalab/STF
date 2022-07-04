@@ -34,3 +34,16 @@ This is a PyTorch and TensorLy implementation of **Accurate Online Tensor Factor
 | Indoor Condition    | locations x sensor x time     | 9 x 2 x 2622   | 59220  | hourly              | [Link](https://archive.ics.uci.edu/ml/datasets/Appliances+energy+prediction)         |
 | Intel Lab Sensor    | locations x sensor x time     | 54 x 4 x 1152  | 513508 | every 10 minutes    | [Link](http://db.csail.mit.edu/labdata/labdata.html)                                 |
 | Chicago Taxi        | sources x destinations x time | 77 x 77 x 2904 | 424440 | hourly              | [Link](https://data.cityofchicago.org/Transportation/Taxi-Trips/wrvz-psew)           |
+
+
+## Reference
+If you use this code, please cite the following paper.
+```
+@inproceedings{ahn2021accurate,
+  title={Accurate Online Tensor Factorization for Temporal Tensor Streams with Missing Values},
+  author={Ahn, Dawon and Kim, Seyun and Kang, U},
+  booktitle={Proceedings of the 30th ACM International Conference on Information \& Knowledge Management},
+  pages={2822--2826},
+  year={2021}
+}
+```
